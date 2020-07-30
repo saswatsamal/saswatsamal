@@ -11,7 +11,7 @@
 
 **I can see you are visiting me!**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaswatsamal)](https://hits.seeyoufarm.com)
+[![HitCount](http://hits.dwyl.com/saswatsamal/saswatsamal.svg)](http://hits.dwyl.com/saswatsamal/saswatsamal)
 
 *Then don't forget to give a ⭐ in my projects*
 
