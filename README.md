@@ -8,6 +8,13 @@
 ---
 ### Check my Stats!
 ![Saswat Samal's Stats](https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&theme=dark)
+
+**I can see you are visiting me!**
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaswatsamal)](https://hits.seeyoufarm.com)
+
+*Then don't forget to give a ⭐ in my projects*
+
 <!--
 **saswatsamal/saswatsamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
