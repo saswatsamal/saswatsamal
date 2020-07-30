@@ -11,7 +11,7 @@
 
 **I can see you are visiting me!**
 
-[![HitCount](http://hits.dwyl.com/saswatsamal/saswatsamal.svg)](http://hits.dwyl.com/saswatsamal/saswatsamal)
+[![HitCount](http://hits.dwyl.com/saswatsamal/saswatsamal.svg)](http://saswatsamal.me)
 
 *Then don't forget to give a ⭐ in my projects*
 
