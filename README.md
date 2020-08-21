@@ -17,6 +17,9 @@
 ### Check my Stats!
 ![Saswat Samal's Stats](https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&theme=dark)
 
+### Top Languages I've Worked on!
+![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saswatsamal&layout=compact&theme=chartreuse-dark)
+
 🚀 I'll be glad to show what I've done and if  you like it then *don't forget to give a ⭐ in my projects*
 
 
