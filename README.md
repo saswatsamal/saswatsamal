@@ -1,4 +1,4 @@
-[![Saswat Samal](https://github.com/saswatsamal/saswatsamal/blob/master/assets/saswatsamal.py.png)](http://saswatsamal.me)
+[![Saswat Samal](https://github.com/saswatsamal/saswatsamal/blob/master/assets/saswatsamal.png)](http://saswatsamal.me)
 
 
 [![Twitter Follow](https://badgen.net/twitter/follow/TweetSaswat)](https://twitter.com/TweetSaswat)
