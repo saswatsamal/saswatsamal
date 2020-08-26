@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I like to speak on stage but I'm still shy as a kid! 🤐😬
 ---
 ### Check my Stats!
-![Saswat Samal's Stats](https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&theme=dark)
+![Saswat Samal's Stats](https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&theme=chartreuse-dark)
 
 ### Top Languages I've Worked on!
 ![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saswatsamal&layout=compact&theme=chartreuse-dark)
