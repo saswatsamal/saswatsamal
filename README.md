@@ -7,7 +7,7 @@
 ![loading](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif)
 ### Hi there 👋, I'm Saswat Samal. Welcome to my GitHub! 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaswatsamal%2F)](http://saswatsamal.me)
+[![Hits](https://profile-counter.glitch.me/saswatsamal/count.svg)](http://saswatsamal.me)
 
 - 🔭 I’m currently a UG Student at ITER, SOA University.
 - 🌱 I’m currently learning Python and Machine Learning.
