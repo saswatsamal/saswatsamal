@@ -4,7 +4,8 @@
 [![Twitter Follow](https://badgen.net/twitter/follow/TweetSaswat)](https://twitter.com/TweetSaswat)
 [![https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=saswatsamal](https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=saswatsamal)](http://saswatsamal.me/)
 
-![loading](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif)
+![loading](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif) - This is my curious mind which is always searching for new things. xD
+
 ### Hi there 👋, I'm Saswat Samal. Welcome to my GitHub! 
 
 [![Hits](https://profile-counter.glitch.me/saswatsamal/count.svg)](http://saswatsamal.me)
