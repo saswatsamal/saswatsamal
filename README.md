@@ -16,6 +16,9 @@
 - 😄 Pronouns: He/His/Him/Mr.
 - ⚡ Fun fact: I like to speak on stage but I'm still shy as a kid! 🤐😬
 ---
+### Check this out
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saswatsamal&repo=mygithubcontributions)](https://github.com/saswatsamal/mygithubcontributions)
+
 ### Check my Stats!
 ![Saswat Samal's Stats](https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&theme=chartreuse-dark)
 
