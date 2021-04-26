@@ -13,7 +13,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/saswatsamal/count.svg"/></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saswatsamal" alt="saswatsamal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saswatsamal&theme=darkhub" alt="saswatsamal" /></a> </p>
 
 
 - 🔭 I’m currently a UG Student at ITER, SOA University.
