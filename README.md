@@ -25,12 +25,9 @@
 ### Check this out
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saswatsamal&repo=mygithubcontributions)](https://github.com/saswatsamal/mygithubcontributions)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswatsamal&show_icons=true&locale=en&layout=compact" alt="saswatsamal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswatsamal&show_icons=true&locale=en&layout=compact" width=200 alt="saswatsamal" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&locale=en" width=200 alt="saswatsamal" />
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatsamal&" width=200 alt="saswatsamal" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&locale=en" alt="saswatsamal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatsamal&" alt="saswatsamal" /></p>
-
-<p align="center">🚀 I'll be glad to show what I've done and if  you like it then don't forget to give a ⭐ in my projects </p>
 
 
