@@ -23,11 +23,8 @@
 
 ---
 ### Check this out
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saswatsamal&repo=mygithubcontributions)](https://github.com/saswatsamal/mygithubcontributions)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saswatsamal&show_icons=true&locale=en&layout=compact" width=200 alt="saswatsamal" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&locale=en" width=200 alt="saswatsamal" />
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saswatsamal&" width=200 alt="saswatsamal" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saswatsamal&show_icons=true&locale=en&layout=compact" width=200 alt="saswatsamal" /><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saswatsamal&show_icons=true&locale=en" width=200 alt="saswatsamal" /><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatsamal&" width=200 alt="saswatsamal" />
 
 
 
