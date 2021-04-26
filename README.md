@@ -4,7 +4,8 @@
 [![Twitter Follow](https://badgen.net/twitter/follow/TweetSaswat)](https://twitter.com/TweetSaswat)
 [![https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=saswatsamal](https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=saswatsamal)](http://saswatsamal.me/)
 
-![loading](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif) - This is my curious mind which is always searching for new things. xD
+<p align="center"><img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></p>
+<p align="center">This is my curious mind which is always searching for new things. xD</p>
 
 <h1 align="center">Hi 👋, I'm Saswat Samal</h1>
 <h3 align="center">A passionate developer from India</h3>
