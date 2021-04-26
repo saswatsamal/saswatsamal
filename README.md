@@ -39,5 +39,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saswatsamal&theme=highcontrast&show_icons=true" alt="saswatsamal" />
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=saswatsamal&theme=highcontrast&hide_border=true" alt ="saswatsamal" />
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=saswatsamal&theme=highcontrast&hide_border=false" alt ="saswatsamal" />
 
