@@ -16,7 +16,6 @@
 
 - 🔭 I’m currently a UG Student at ITER, SOA University.
 - 🌱 I’m currently learning Python and Machine Learning.
-- 📫 How to reach me: Just visit [saswatsamal.me](http://saswatsamal.me/) 😀
 - 😄 Pronouns: He/His/Him/Mr.
 - ⚡ Fun fact: I like to speak on stage but I'm still shy as a kid! 🤐😬
 
