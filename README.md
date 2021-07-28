@@ -38,3 +38,7 @@
 <p align="center">This is my curious mind which is always searching for new things. xD</p>
 
 <h3 align="center">Thank you so much for coming here and reading this!</h3>
+
+<p align="center">
+    <a href="https://github.com/saswatsamal"><img src= "https://github.com/saswatsamal/saswatsamal/blob/output/github-contribution-grid-snake.gif"/></a> 
+</p>
