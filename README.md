@@ -7,10 +7,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 🔭 I’m currently a UG Student at ITER, SOA University.
-- 🌱 I’m currently learning Python and Machine Learning.
-- 😄 Pronouns: He/His/Him/Mr.
-- ⚡ Fun fact: I like to speak on stage but I'm still shy as a kid! 🤐😬
+
 
 
 <h2 align="center">Over all Summary</h2>
