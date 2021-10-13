@@ -5,15 +5,7 @@
 <p align="center"><img src="https://badgen.net/twitter/follow/TweetSaswat" href="https://twitter.com/TweetSaswat"/> <img src="https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=saswatsamal" href="https://saswatsamal.is-a.dev"/></p>
 <p align="center"><img src="https://profile-counter.glitch.me/saswatsamal/count.svg"/></p>
 
-<h2 align="center">About Me</h2>
-
-
-
-
-<h2 align="center">Over all Summary</h2>
-<p align="center"><img src="https://metrics.lecoq.io/saswatsamal" alt ="saswatsamal" /> 
-  <br>
-
+<!--<p align="center"><img src="https://metrics.lecoq.io/saswatsamal" alt ="saswatsamal" /> -->
 <h3 align="center">GitHub Stats</h3>
 <details close align="center">
   <summary>Open to see my GitHub Stats</summary>
